@@ -1,0 +1,10 @@
+.img{
+  opacity: 0.5;
+}
+
+button {
+  padding: 0px;
+  margin-right: 10px;
+  background-color: #ffffff;
+  border: solid 0px #ffffff;
+}

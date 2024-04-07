@@ -1,0 +1,27 @@
+* {
+  font-family: 'Roboto';
+}
+.bg-container {
+  height: 100vh;
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.big-img {
+  height: 70vh;
+  width: 60vw;
+}
+.para-bold {
+  font-weight: bold;
+  color: #1e293b;
+}
+.para {
+  color: #64748b;
+  margin-top: 30px;
+}
+ul {
+  list-style-type: none;
+  padding: 0px;
+  display: flex;
+}
